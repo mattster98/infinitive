@@ -12,7 +12,7 @@ import (
 
 const (
 	devTSTAT    = uint16(0x2001)
-	devHeatPump = uint16(0x5001)
+	devHeatPump = uint16(0x5601)
 	devSAM      = uint16(0x9201)
 )
 
